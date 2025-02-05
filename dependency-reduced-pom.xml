@@ -18,7 +18,7 @@
               <shadedArtifactAttached>true</shadedArtifactAttached>
               <transformers>
                 <transformer>
-                  <mainClass>com.yourorganization.maven_sample.LogicPositivizer</mainClass>
+                  <mainClass>com.swiss.main.EmployeeSalaryAnalyzer</mainClass>
                 </transformer>
               </transformers>
             </configuration>
